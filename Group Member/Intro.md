@@ -1,6 +1,5 @@
 # FANG, ZHENYU
 ![fzy](https://github.com/SCi-winner/SCI.github.io/blob/main/img/fangzhenyu.jpg)
-
 Undergrad of MEng.(H) of class 2020
 
 # ZHOU, JIFENG
