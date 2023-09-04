@@ -3,4 +3,4 @@ This is a team entitled "**SCI-TOP 1**" from DMU-UH program. Our goal is to prod
 
 This blog will be used to regularly show our graduation project progress and results, welcome to leave us a message!
 
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+![Picture](/assets/img/philly-magic-garden.jpg "Magic Gardens")
