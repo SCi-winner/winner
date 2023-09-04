@@ -3,4 +3,4 @@ This is a team entitled "**SCI-TOP 1**" from DMU-UH program. Our goal is to prod
 
 This blog will be used to regularly show our graduation project progress and results, welcome to leave us a message!
 
-![Picture](/img/cover1.jpg "Advancede Materials")
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/cover.jpg)
