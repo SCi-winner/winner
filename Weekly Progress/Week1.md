@@ -29,4 +29,4 @@ pool.
 At the end of the capstone course, our team will provide a physical model of this system, with relevant 
 experimental verification and simulation.
 
-![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/week1.jpg)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/week1.png)
