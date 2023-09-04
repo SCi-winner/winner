@@ -14,7 +14,7 @@ Undergrad of MEng.(H) of class 2020
 Undergrad of MEng.(H) of class 2020
 
 # ZHANG, JIAHENG
-Picture coming soon...
+<a href="url"><img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangjiaheng.jpg" align="center" height="237" width="169" ></a>
 
 Undergrad of MEng.(H) of class 2020
 
