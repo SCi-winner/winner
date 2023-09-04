@@ -1,14 +1,15 @@
 # FANG, ZHENYU
-![fzy](https://github.com/SCi-winner/SCI.github.io/blob/main/img/fangzhenyu.jpg)
+<a href="url"><img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/fangzhenyu.jpg" align="center" height="237" width="169" ></a>
+
 Undergrad of MEng.(H) of class 2020
 
 # ZHOU, JIFENG
-![zjf](https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhoujifeng.jpg)
+<a href="url"><img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhoujifeng.jpg" align="center" height="237" width="169" ></a>
 
 Undergrad of MEng.(H) of class 2020
 
 # ZHANG, XINYUE
-![zxy](https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangxinyue.jpg)
+<a href="url"><img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangxinyue.jpg" align="center" height="237" width="237" ></a>
 
 Undergrad of MEng.(H) of class 2020
 
