@@ -53,7 +53,7 @@
         <dd>
             <ul>
                 <br>
-                <li>Week 1 (27 August - 3 September):Determine project title and direction <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/week1.png?raw=true">Link</a></li>
+                <li>Week 1 (27 August - 3 September):Determine project title and direction <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/week1.png?raw=true">Link</a></li>
                 <br>
                 <li>Week 2 (4 September - 10 September) </li>
                 <br>
