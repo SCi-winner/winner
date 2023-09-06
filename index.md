@@ -14,7 +14,7 @@
 <body>
      <div class="info-wrap">
       <div class="img">
-        <img src="[https://postimg.cc/xkngs8Vp](https://github.com/SCi-winner/SCI.github.io/blob/main/img/logo.png?raw=true)" alt="">
+        <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/cover.jpg?raw=true" alt="">
       </div>
       <div class="info-right">
     <h1>SCI TOP1 TEAM</h1>
