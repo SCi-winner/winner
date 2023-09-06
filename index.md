@@ -41,11 +41,11 @@
         <dt>Team Members</dt>
         <dd>
             <ul>
-                <li>Zhenyu Fang, Undergrad of MEng.(H) of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/fangzhenyu.jpg?raw=true" border="0" />
-                <li>Jifeng Zhou, Undergrad of MEng.(H) of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhoujifeng.jpg?raw=true" border="0" />
-                <li>Xinyue Zhang, Undergrad of MEng.(H) of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangxinyue.jpg?raw=true" border="0" />
-                <li>Sen Gao, Undergrad of MEng.of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/gaosen.jpg?raw=true" border="0" />
-                <li>Jiaheng Zhang, Undergrad of MEng. of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangjiaheng.jpg?raw=true" border="0" />         
+                <li>Zhenyu Fang, Undergrad of MEng.(H) of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/fangzhenyu.jpg?raw=true">Link</a></li>
+                <li>Jifeng Zhou, Undergrad of MEng.(H) of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhoujifeng.jpg?raw=true">Link</a></li>
+                <li>Xinyue Zhang, Undergrad of MEng.(H) of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangxinyue.jpg?raw=true">Link</a></li>
+                <li>Sen Gao, Undergrad of MEng.of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/gaosen.jpg?raw=true">Link</a></li>
+                <li>Jiaheng Zhang, Undergrad of MEng. of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangjiaheng.jpg?raw=true">Link</a></li>         
             </ul>
         </dd>
         
@@ -53,7 +53,7 @@
         <dd>
             <ul>
                 <br>
-                <li>Week 1 (27 August - 3 September):Determine project title and direction <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/week1.png?raw=true" border="0" />
+                <li>Week 1 (27 August - 3 September):Determine project title and direction <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week1.md">Link</a></li>
                 <br>
                 <li>Week 2 (4 September - 10 September) </li>
                 <br>
