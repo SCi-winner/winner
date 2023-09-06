@@ -41,11 +41,11 @@
         <dt>Team Members</dt>
         <dd>
             <ul>
-                <li>Zhenyu Fang, Undergrad of MEng.(H) of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/fangzhenyu.jpg?raw=true" border="0" />
-                <li>Jifeng Zhou, Undergrad of MEng.(H) of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhoujifeng.jpg?raw=true" border="0" />
-                <li>Xinyue Zhang, Undergrad of MEng.(H) of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangxinyue.jpg?raw=true" border="0" />
-                <li>Sen Gao, Undergrad of MEng.of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/gaosen.jpg?raw=true" border="0" />
-                <li>Jiaheng Zhang, Undergrad of MEng. of class 2020 <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangjiaheng.jpg?raw=true" border="0" />         
+                <li>Zhenyu Fang, Undergrad of MEng.(H) of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/fangzhenyu.jpg?raw=true" border="0" />
+                <li>Jifeng Zhou, Undergrad of MEng.(H) of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhoujifeng.jpg?raw=true" border="0" />
+                <li>Xinyue Zhang, Undergrad of MEng.(H) of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangxinyue.jpg?raw=true" border="0" />
+                <li>Sen Gao, Undergrad of MEng.of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/gaosen.jpg?raw=true" border="0" />
+                <li>Jiaheng Zhang, Undergrad of MEng. of class 2020 <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/zhangjiaheng.jpg?raw=true" border="0" />         
             </ul>
         </dd>
         
