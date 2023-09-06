@@ -1,4 +1,3 @@
-<html>
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="SCI-TOP 1's page,let u know me" />
@@ -62,8 +61,7 @@
                 <br>
                 <li>Week 5 (25 September -  1 October)</li>
             </ul>
-            <dt>Coming soon......</dt>
-    </dd>
+            <dt>Coming soon......
         
     <div style="padding: 5px;">
         <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/logo.png?raw=true" border="0" />
