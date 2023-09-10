@@ -35,8 +35,7 @@ module can also be achieved, to ensure that the power supply will not be lower t
 also add a display to show the current power, light intensity, temperature, sun angle and so on. If necessary,
 you can also add buttons to control the menu and so on. You can also add a LED, light off and no lighton. You can
 also add bluetooth or WiFi module, and develop an APP or oc program, so that the data uploaded in real time display.
-
-  The above functions are all part of the idea, currently there is a need for additional structure and then realise
+The above functions are all part of the idea, currently there is a need for additional structure and then realise
 the functions other than energy storage.
 
 4. Part of Zhang， Jiaheng: I proposed two different options for the requirements of the snorkelling function of 
