@@ -38,7 +38,7 @@ also add bluetooth or WiFi module, and develop an APP or oc program, so that the
 The above functions are all part of the idea, currently there is a need for additional structure and then realise
 the functions other than energy storage.
 
-4. Part of Zhang， Jiaheng: I proposed two different options for the requirements of the snorkelling function of 
+4. Part of Zhang, Jiaheng: I proposed two different options for the requirements of the snorkelling function of 
 the platform in bad weather at sea. Option 1: The pressure tank is placed inside the carrier body and the leather
 bag is in contact with seawater. When all the oil is in the pressure tank, the rubber bag is compressed, the
 displacement is minimised and the positive buoyancy of the regulating system is minimised. As the oil is pumped
@@ -50,7 +50,7 @@ system has the minimum positive buoyancy. As the oil is pumped into the gel bag,
 while the weight remains constant and the buoyancy increases. When all the oil is pumped out of the pressure tank, 
 the regulating system reaches maximum positive buoyancy.
 
-5. Part of Gao， Sen: I mainly read the literature on the design of bionic jellyfish based on tensile monolithic
+5. Part of Gao, Sen: I mainly read the literature on the design of bionic jellyfish based on tensile monolithic
 structure, and made a preliminary idea of the battery for storing power for the gimbal, as well as the shape of
 the wiring of the platform and the surrounding facilities to cope with possible emergencies in the sea.
 Literature address:[1] Zhang Ze. (2021). Design of Bionic Jellyfish Based on Tensioned Monolithic Structure 
