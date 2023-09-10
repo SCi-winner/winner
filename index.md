@@ -53,7 +53,7 @@
                 <br>
                 <li>Week 1 (27 August - 3 September):Determine project title and direction <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week1.md">Link</a></li>
                 <br>
-                <li>Week 2 (4 September - 10 September) </li>
+                <li>Week 2 (4 September - 10 September):Drawing and design techniques <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/week2.md">Link</a></li>
                 <br>
                 <li>Week 3 (11 September - 17 September)</li>
                 <br>
