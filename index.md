@@ -28,6 +28,10 @@
         <dt>Instructor</dt>
         <dd>
         <br/>
+
+        <div style="padding: 5px;">
+            <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/logo.png?raw=true" border="0" />
+        </div>
         <dd>Dr. Wang, Zhaogui</dd>
             <ul>
                 <li>Researchgate Page <a href="https://www.researchgate.net/profile/Zhaogui-Wang">Link</a></li>
