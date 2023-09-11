@@ -30,7 +30,7 @@
         <br/>
 
         <div style="padding: 5px;">
-            <img src="https://github.com/SCi-winner/SCI.github.io/blob/main/img/logo.png?raw=true" border="0" />
+            <img src="https://s1.ax1x.com/2022/03/21/qnEsS0.png?raw=true" border="0" />
         </div>
         <dd>Dr. Wang, Zhaogui</dd>
             <ul>
