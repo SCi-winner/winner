@@ -27,7 +27,7 @@ a PTZ camera and a retractable solar panel. The subsurface section consists of t
 which is closer to the surface, and the water pump that controls the snorkeling.
 
 
-3. Part of the Zhang，Xinyue: I have a preliminary idea and design for the light storage rechargeable battery, 
+3. Part of Zhang，Xinyue: I have a preliminary idea and design for the light storage rechargeable battery, 
 I think we need solar panels, solar panels dedicated voltage regulator module, lithium batteries. If you want to 
 add the function of automatic intelligent light chasing, you have to add a microcontroller (can use stm32c8t6 ), 
 photoresistor, stepping motor, and 3.3v voltage conversion chip (can use rt6150b-33gqw).Ordinary buck regulator
