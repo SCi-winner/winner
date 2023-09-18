@@ -1,31 +1,22 @@
 # WEEK 3 (11 September - 17 September, 2023)
 ![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/Team%20discussion.jpg?raw=true)
 ## Overview
-  We divided up the work and explored the work in depth. We modelled the style of the initial platform and clarified the design direction of each part.
-
+  We did some scientific review and discussed the timeline of the whole work, as well as learning the basic concepts.
 ## Project Title
 **Intelligent Marine buoyancy Platform System**
 
 ## Project Description
-Over the past week, our group has been preliminarily conceptualizing the general model of the final design. 
-We have been working on different ideas for the components of the model and have been further refining the 
-structural features and general shape of the model with the help of our instructor.
+Last week, our group has discussed the timeline of the whole work. Our members did the scientific review
+with respect to our own parts. Besides, we are learning the concepts necessary for our part design and fabrication.
 
-1. Part of Fang, Zhenyu: I made the design of bionic water plant for the sea detection, my initial idea to 
-design the plant with eight symmetrical leaves. Its stem is empty and has a nano-power generation structure 
-inside. Based on the sea wind and wave undulation and nano power generation to achieve the effect of nano power 
-generation. Currently there are a few parts of the design that need attention: one is how to waterproof the 
-inside of the water plant structure in the sea, here we conceive the use of waterproof coating to solve the 
-problem. There is also the poor ability of the bionic water plants to complete the exploration independently, 
-so we plan it as an array to perform the task.
+1. Part of Fang, Zhenyu: I have reviewed some marine devices published in the last few years. Since my idea is to utilize
+triboelectricity and wave energy, I have completed the fundamental devices to realize the function. However, in order to design
+the whole device, I continue to search for existed devices and designs.
 
-
-2. Part of Zhou, Jifeng: The project ontology is modeled initially and the location of each part is analyzed.
-The idea was put forward to divide the project body into two parts, above the sea surface and below the sea 
-surface, separated by a large floating platform in the middle. The part above the sea is equipped with two parts:
-a PTZ camera and a retractable solar panel. The subsurface section consists of two parts: the friction nanogenerator,
-which is closer to the surface, and the water pump that controls the snorkeling.
-
+2. Part of Zhou, Jifeng: This week, I conducted a preliminary study of the head head.
+I looked up the relevant parts of the mobile phone head and camera head on the Internet.
+After the study, I found that this structure is not suitable for the wave shake prevention on the sea surface,
+and our team is not particularly familiar with the motor control.
 
 3. Part of Zhang，Xinyue: I have a preliminary idea and design for the light storage rechargeable battery, 
 I think we need solar panels, solar panels dedicated voltage regulator module, lithium batteries. If you want to 
@@ -38,23 +29,19 @@ also add bluetooth or WiFi module, and develop an APP or oc program, so that the
 The above functions are all part of the idea, currently there is a need for additional structure and then realise
 the functions other than energy storage.
 
-4. Part of Zhang, Jiaheng: I proposed two different options for the requirements of the snorkelling function of 
-the platform in bad weather at sea. Option 1: The pressure tank is placed inside the carrier body and the leather
-bag is in contact with seawater. When all the oil is in the pressure tank, the rubber bag is compressed, the
-displacement is minimised and the positive buoyancy of the regulating system is minimised. As the oil is pumped
-into the leather bag, the drainage of the system increases while the weight remains constant and the buoyancy 
-increases. When all the oil is pumped from the pressure tank, the regulating system obtains the maximum positive
-buoyancy. Option 2: The pressure tank is placed in the carrier body and the skin bag is in contact with seawater,
-when all the oil is in the pressure tank, the gel bag is compressed, the drainage is minimum and the regulating
-system has the minimum positive buoyancy. As the oil is pumped into the gel bag, the drainage of the system increases
-while the weight remains constant and the buoyancy increases. When all the oil is pumped out of the pressure tank, 
-the regulating system reaches maximum positive buoyancy.
+4. Part of Zhang, Jiaheng: I have a better understanding of my task. It can be seen that this topic has a greater
+role in the comprehensive application of my theoretical knowledge and skills, and requires that we must
+have a solid foundation of parts design, have a comprehensive mechanical professional knowledge, familiar
+with mechanical principles and other professional knowledgeThe relevant books are "Mechanical Manufacturing
+Testing Technology Manual", and the relevant picture books are also borrowed. Then read the relevant materials
+and borrowed books to get ready for the design
 
-5. Part of Gao, Sen: I mainly read the literature on the design of bionic jellyfish based on tensile monolithic
-structure, and made a preliminary idea of the battery for storing power for the gimbal, as well as the shape of
-the wiring of the platform and the surrounding facilities to cope with possible emergencies in the sea.
-Literature address:[1] Zhang Ze. (2021). Design of Bionic Jellyfish Based on Tensioned Monolithic Structure 
-(Master's thesis, Changchun University of Technology).
-https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD202102&filename=1021608657.nh
+5. Part of Gao, Sen: This week I've been reading up on jellyfish bionics and maintaining force balance,
+and have a rough plan for the part I'm designing. I got some understanding and preliminary design for
+the wiring and the adjustment of the gimbal's attitude, designed a rough sketch, and prepared to do
+some simple mechanical analysis in the next step. After that, I carried out some simulation analysis
+to support the stability of my mechanical structure with theoretical data. I hope to discuss with the
+teacher to help me realize the next step of mechanical theory analysis and simulation modeling.
 
-![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/Preliminary%20model%20of%20the%20head.png?raw=true)
+The following Link is to our pitch slides:
+
