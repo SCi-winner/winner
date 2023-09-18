@@ -27,7 +27,7 @@ relations induced by folding bring many new challenges and opportunities to the 
 Recent progress in the study of origami structure and metamaterial dynamics, including :(1) dynamic modeling and parameter identification methods; (2) Dynamic theory, finite element and experimental analysis methods; (3) Folding induced dynamic behavior, including bistable and multistable dynamic behavior, transient dynamic behavior and wave propagation dynamic behavior; (4) Typical kinetic applications.
 Related directions to learn: origami structure; Origami metamaterial; Dynamic modeling; Folding dynamics; Multisteady state dynamics; Transient dynamics; Wave mechanics
 
-![Picture](https://qr.maitube.com/img/GGHGJI)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/Week3.jpg?raw=true)
 
 5. Part of Zhang, Jiaheng: I have a better understanding of my task. It can be seen that this topic has a greater
 role in the comprehensive application of my theoretical knowledge and skills, and requires that we must
