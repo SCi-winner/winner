@@ -24,19 +24,19 @@ and supernormal mechanical properties induced by folding. The dynamics of origam
 involving not only dynamic modeling and parameter identification, but also dynamic mechanism analysis and experimental testing.
 The complex spatial geometric relations, rich deformation modes and globally strong nonlinear constitutive
 relations induced by folding bring many new challenges and opportunities to the study of dynamics.
-
 Recent progress in the study of origami structure and metamaterial dynamics, including :(1) dynamic modeling and parameter identification methods; (2) Dynamic theory, finite element and experimental analysis methods; (3) Folding induced dynamic behavior, including bistable and multistable dynamic behavior, transient dynamic behavior and wave propagation dynamic behavior; (4) Typical kinetic applications.
-
 Related directions to learn: origami structure; Origami metamaterial; Dynamic modeling; Folding dynamics; Multisteady state dynamics; Transient dynamics; Wave mechanics
 
-4. Part of Zhang, Jiaheng: I have a better understanding of my task. It can be seen that this topic has a greater
+![Picture](https://qr.maitube.com/img/GGHGJI?raw=true)
+
+5. Part of Zhang, Jiaheng: I have a better understanding of my task. It can be seen that this topic has a greater
 role in the comprehensive application of my theoretical knowledge and skills, and requires that we must
 have a solid foundation of parts design, have a comprehensive mechanical professional knowledge, familiar
 with mechanical principles and other professional knowledgeThe relevant books are "Mechanical Manufacturing
 Testing Technology Manual", and the relevant picture books are also borrowed. Then read the relevant materials
 and borrowed books to get ready for the design
 
-5. Part of Gao, Sen: This week I've been reading up on jellyfish bionics and maintaining force balance,
+6. Part of Gao, Sen: This week I've been reading up on jellyfish bionics and maintaining force balance,
 and have a rough plan for the part I'm designing. I got some understanding and preliminary design for
 the wiring and the adjustment of the gimbal's attitude, designed a rough sketch, and prepared to do
 some simple mechanical analysis in the next step. After that, I carried out some simulation analysis
@@ -44,4 +44,4 @@ to support the stability of my mechanical structure with theoretical data. I hop
 teacher to help me realize the next step of mechanical theory analysis and simulation modeling.
 
 The following Link is to our pitch slides:
-
+[**WEEK3_Group#6_Pitch_Slides**](https://github.com/SCi-winner/SCI.github.io/blob/main/Group%20Member/Intro.md).
