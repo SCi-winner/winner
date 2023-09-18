@@ -1,5 +1,5 @@
 # WEEK 3 (11 September - 17 September, 2023)
-![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/Team%20discussion.jpg?raw=true)
+
 ## Overview
   We did some scientific review and discussed the timeline of the whole work, as well as learning the basic concepts.
 ## Project Title
