@@ -44,4 +44,4 @@ to support the stability of my mechanical structure with theoretical data. I hop
 teacher to help me realize the next step of mechanical theory analysis and simulation modeling.
 
 The following Link is to our pitch slides:
-[**WEEK3_Group#6_Pitch_Slides**](https://github.com/SCi-winner/SCI.github.io/blob/main/Group%20Member/Intro.md).
+[**WEEK3_Group#6_Pitch_Slides**](https://maifile.cn/est/a2426949992387/pdf).
