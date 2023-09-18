@@ -59,7 +59,7 @@
                 <br>
                 <li>Week 2 (4 September - 10 September):Drawing and design techniques <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/week2.md">Link</a></li>
                 <br>
-                <li>Week 3 (11 September - 17 September)</li>
+                <li>Week 3 (11 September - 17 September): Scientific review and discuss timelines <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week3.md">Link</a></li>
                 <br>
                 <li>Week 4 (18 September - 24 September)</li>
                 <br>
