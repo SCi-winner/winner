@@ -18,16 +18,16 @@ I looked up the relevant parts of the mobile phone head and camera head on the I
 After the study, I found that this structure is not suitable for the wave shake prevention on the sea surface,
 and our team is not particularly familiar with the motor control.
 
-3. Part of Zhang，Xinyue: I have a preliminary idea and design for the light storage rechargeable battery, 
-I think we need solar panels, solar panels dedicated voltage regulator module, lithium batteries. If you want to 
-add the function of automatic intelligent light chasing, you have to add a microcontroller (can use stm32c8t6 ), 
-photoresistor, stepping motor, and 3.3v voltage conversion chip (can use rt6150b-33gqw).Ordinary buck regulator
-module can also be achieved, to ensure that the power supply will not be lower than 5v can be.Function part can 
-also add a display to show the current power, light intensity, temperature, sun angle and so on. If necessary,
-you can also add buttons to control the menu and so on. You can also add a LED, light off and no lighton. You can
-also add bluetooth or WiFi module, and develop an APP or oc program, so that the data uploaded in real time display.
-The above functions are all part of the idea, currently there is a need for additional structure and then realise
-the functions other than energy storage.
+3. Part of Zhang，Xinyue: Origami structure and metamaterial have become the research frontiers and hot spots in mathematics,
+physics and engineering because of their infinite design space, outstanding variable shape, variable size, variable topological properties,
+and supernormal mechanical properties induced by folding. The dynamics of origami structures and metamaterials are becoming more and more prominent,
+involving not only dynamic modeling and parameter identification, but also dynamic mechanism analysis and experimental testing.
+The complex spatial geometric relations, rich deformation modes and globally strong nonlinear constitutive
+relations induced by folding bring many new challenges and opportunities to the study of dynamics.
+
+Recent progress in the study of origami structure and metamaterial dynamics, including :(1) dynamic modeling and parameter identification methods; (2) Dynamic theory, finite element and experimental analysis methods; (3) Folding induced dynamic behavior, including bistable and multistable dynamic behavior, transient dynamic behavior and wave propagation dynamic behavior; (4) Typical kinetic applications.
+
+Related directions to learn: origami structure; Origami metamaterial; Dynamic modeling; Folding dynamics; Multisteady state dynamics; Transient dynamics; Wave mechanics
 
 4. Part of Zhang, Jiaheng: I have a better understanding of my task. It can be seen that this topic has a greater
 role in the comprehensive application of my theoretical knowledge and skills, and requires that we must
