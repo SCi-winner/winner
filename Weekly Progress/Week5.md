@@ -3,19 +3,19 @@
 ## Overview
 &emsp;&emsp;We update the project plan of our project proposal.
 ### Project Plan
-&emsp;Milestone1 : Model designed
+Milestone1 : Model designed
 <br/>
-&emsp;Task1: Study articles on the mechanics of bionic structures of jellyfish
+Task1: Study articles on the mechanics of bionic structures of jellyfish
 <br/>
-&emsp;Task2: Study of materials for underwater power supply circuits
+Task2: Study of materials for underwater power supply circuits
 <br/>
-&emsp;Task3 : Energy options and utilization patterns
+Task3 : Energy options and utilization patterns
 <br/>
-&emsp;Task4 : Learn general head structure and general motor control algorithm
+Task4 : Learn general head structure and general motor control algorithm
 <br/>
-&emsp;Task5 : Research on waterproof and anti-corrosion of PTZ.
+Task5 : Research on waterproof and anti-corrosion of PTZ.
 <br/>
-&emsp;Task6 : Design Selected Prototype Fabricated
+Task6 : Design Selected Prototype Fabricated
 <br/>
 &emsp;&emsp;Solving of Task1: Studying the jellyfish bionic material, by reading these completed research designs, it can be illustrated from the literature theoretical point of view that the structural model of jellyfish bionic can again help our gimbal to reduce the impact of the sea currents to a certain extent and maintain a certain attitude position. And the research report also gives its practical scenarios and some basic theoretical formulas, finite element analysis, etc., which can help us to better design the jellyfish bionic shape.
 <br/>
