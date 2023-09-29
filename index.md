@@ -61,9 +61,15 @@
                 <br>
                 <li>Week 3 (11 September - 17 September): Scientific review and discuss timelines <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week3.md">Link</a></li>
                 <br>
-                <li>Week 4 (18 September - 24 September)</li>
+                <li>Week 4 (18 September - 24 September): Proposal update <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week4.md">Link</a></li>
                 <br>
-                <li>Week 5 (25 September -  1 October)</li>
+                <li>Week 5 (25 September -  1 October): Project plan update <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week5.md">Link</a></li>
+                <br>
+                <li>Week 6 (2 October -  8 October)</li>
+                <br>
+                <li>Week 7 (9 October -  15 October)</li>
+                <br>
+                <li>Week 8 (16 October - 22 October)</li>
             </ul>
             <dt>Coming soon......
         
