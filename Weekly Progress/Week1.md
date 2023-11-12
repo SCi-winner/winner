@@ -1,4 +1,4 @@
-# WEEK 1 (Aug. 27 to Sep. 3, 2023)
+# WEEK 2 (Aug. 27 to Sep. 3, 2023)
 ## Overview
   The tasks we completed this week are mainly related to the project content, including determining the topic direction and the general content.
 
