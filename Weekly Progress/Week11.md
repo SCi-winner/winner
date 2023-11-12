@@ -56,6 +56,20 @@ Task1:Perform cyclic simulations for joint topology optimisation.
 <br>
 Task2:Adjustment of optimisation parameters.
 
+Jifeng Zhou
+<br>
+Accomplishment:
+<br>
+1.Completed modelling of the yaw axis of the head.
+<br>
+2.The visual recognition dataset for the yaw axis with the gimbal tuned up.
+<br>
+Next:
+<br>
+Task1:Import the dataset into the algorithm for testing.
+<br>
+Task2:Building bridges for data transfer.
+<br>
 
 
 
