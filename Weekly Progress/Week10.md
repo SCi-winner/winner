@@ -46,7 +46,18 @@ Accomplishment:
 3.Conducting digital calculations
 <br>
 
-
+This is our powerpoint progress report：
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片1.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片2.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片3.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片4.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片5.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片6.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片7.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片8.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片9.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片10.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/幻灯片11.png)
 
 
 
