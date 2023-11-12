@@ -1,4 +1,4 @@
-# WEEK 3 (11 September - 17 September, 2023)
+# WEEK 4 (11 September - 17 September, 2023)
 
 ## Overview
   We did some scientific review and discussed the timeline of the whole work, as well as learning the basic concepts.
