@@ -55,21 +55,36 @@
         <dd>
             <ul>
                 <br>
-                <li>Week 1 (27 August - 3 September):Determine project title and direction <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week1.md">Link</a></li>
+                <li>Week 1 (21 August - 27 August): Introduction to the course-Welcome to the Group#6!
                 <br>
-                <li>Week 2 (4 September - 10 September):Drawing and design techniques <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/week2.md">Link</a></li>
+                <li>Week 2 (27 August - 3 September): Determine project title and direction <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week1.md">Link</a></li>
                 <br>
-                <li>Week 3 (11 September - 17 September): Scientific review and discuss timelines <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week3.md">Link</a></li>
+                <li>Week 3 (4 September - 10 September): Drawing and design techniques <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/week2.md">Link</a></li>
                 <br>
-                <li>Week 4 (18 September - 24 September): Proposal update <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week4.md">Link</a></li>
+                <li>Week 4 (11 September - 17 September): Scientific review and discuss timelines <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week3.md">Link</a></li>
                 <br>
-                <li>Week 5 (25 September -  1 October): Project plan update <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week5.md">Link</a></li>
+                <li>Week 5 (18 September - 24 September): Proposal update <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week4.md">Link</a></li>
                 <br>
-                <li>Week 6 (2 October -  8 October)</li>
+                <li>Week 6 (25 September -  1 October): Project plan update <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week5.md">Link</a></li>
                 <br>
-                <li>Week 7 (9 October -  15 October)</li>
+                <li>Week 7 (2 October -  8 October)</li>: National Day-Holiday rest <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week6.md">Link</a></li>
                 <br>
-                <li>Week 8 (16 October - 22 October)</li>
+                <li>Week 8 (9 October -  15 October)</li>: Project proposal update <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week7.md">Link</a></li>
+                <br>
+                <li>Week 9 (16 October - 22 October)</li>: Project proposal completion & Model design <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week8.md">Link</a></li>
+                <br>
+                <li>Week 10 (23 October -  29 October)</li>: Lab security training/tour & Model update <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week9.md">Link</a></li>
+                <br>
+                <li>Week 11 (30 October -  5 November)</li>: Technical anlysis discussion <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week10.md">Link</a></li>
+                <br>
+                <li>Week 12 (6 November -  12 November)</li>: Model design & discussion <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Week11.md">Link</a></li>
+                <br>
+                <li>Week 13 (13 November -  19 November)</li>:...
+                <br>
+                <li>Week 14 (20 November -  26 November)</li>:...
+                <br>
+                <li>Week 15 (27 November -  3 December)</li>:...
+                <br>
             </ul>
             <dt>Coming soon......
         
