@@ -1,4 +1,4 @@
-# WEEK 8 (16 September - 22 October, 2023)
+# WEEK 9 (16 September - 22 October, 2023)
 
 ## Overview
 &emsp;&emsp;This week we completed our tasks for the week and worked on the PowerPoint for the debriefing summary afterwards.
