@@ -1,4 +1,4 @@
-# WEEK 5 (25 September - 1 October, 2023)
+# WEEK 6 (25 September - 1 October, 2023)
 
 ## Overview
 &emsp;&emsp;We update the project plan of our project proposal.
