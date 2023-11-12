@@ -1,4 +1,4 @@
-# WEEK 4 (18 September - 24 September, 2023)
+# WEEK 5 (18 September - 24 September, 2023)
 
 ## Overview
 &emsp;&emsp;We update some parts of our project proposal, including Abstract, Introduction and Problem Statement, as well as Statement of the Goal.
