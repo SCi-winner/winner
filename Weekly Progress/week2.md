@@ -1,4 +1,4 @@
-# WEEK 2 (4 September - 10 September, 2023)
+# WEEK 3 (4 September - 10 September, 2023)
 ![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/Team%20discussion.jpg?raw=true)
 ## Overview
   We divided up the work and explored the work in depth. We modelled the style of the initial platform and clarified the design direction of each part.
