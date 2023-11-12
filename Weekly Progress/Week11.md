@@ -2,6 +2,7 @@
 
 ## Overview
 &emsp;&emsp;This week we completed our tasks for the week and worked on the PowerPoint for the debriefing summary afterwards.
+img/总体概念图.png
 ## Progress on components
 JiaHeng Zhang
 <br>
