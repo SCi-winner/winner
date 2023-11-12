@@ -2,7 +2,7 @@
 
 ## Overview
 &emsp;&emsp;This week we completed our tasks for the week and worked on the PowerPoint for the debriefing summary afterwards.
-[img/总体概念图.png](https://github.com/SCi-winner/SCI.github.io/blob/69841ea0b1dc0053a318d43182d2e9ec924ead9d/img/%E6%80%BB%E4%BD%93%E6%A6%82%E5%BF%B5%E5%9B%BE.png)
+![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/总体概念图.png)
 ## Progress on components
 JiaHeng Zhang
 <br>
