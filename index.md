@@ -86,7 +86,6 @@
                 <br>
                 <li>Blog Update#2:...
                 
-            </ul>
             <dt>Coming soon......
         
     <div style="padding: 5px;">
