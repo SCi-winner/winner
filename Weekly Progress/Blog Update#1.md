@@ -1,10 +1,8 @@
 # Blog Update-1: Project progress updates
 
 ## Overview
-&emsp;&emsp;The following is our progress report at this stage
-<br>
+&emsp;&emsp;This is our powerpoint progress report：
 
-This is our powerpoint progress report：
 ![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/Progress%20(1).png)
 ![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/Progress%20(2).png)
 ![Picture](https://github.com/SCi-winner/SCI.github.io/blob/main/img/Progress%20(3).png)
