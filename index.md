@@ -84,7 +84,7 @@
                 <br>
                 <li>Blog Update#1: Project progress updates <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Blog%20Update%231.md">Link</a></li>
                 <br>
-                <li>Blog Update#2: Project progress updates <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Blog%20Update%231.md">Link</a></li>
+                <li>Blog Update#2: Project progress updates <a href="https://github.com/SCi-winner/SCI.github.io/blob/main/Weekly%20Progress/Blog%20Update%232.md">Link</a></li>
                 
             <dt>Coming soon......
         
